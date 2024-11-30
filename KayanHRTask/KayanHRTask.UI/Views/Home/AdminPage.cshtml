@@ -1,0 +1,71 @@
+﻿@model List<KayanHRTask.BL.Models.Users>
+@{
+    ViewData["Title"] = "AdminPage";
+}
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+
+    <a asp-action="Create" class="btn btn-outline-success">Register Admin</a>
+    <table>
+        <tr>
+            <th>User Name</th>
+            <th>Email</th>
+            <th>Operation</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-primary" asp-route-id="@item.UsersId">Edit</a>
+                    <button onclick="confirmDelete(@item.UsersId)" class="btn btn-danger">Delete</button>
+                    <a asp-action="View" class="btn btn-success" asp-route-id="@item.UsersId">View</a>
+
+                    <form id="deleteForm-@item.UsersId" method="post" asp-action="Delete" asp-route-id="@item.UsersId" style="display:none;">
+                        @Html.AntiForgeryToken()
+                    </form>
+                </td>
+            </tr>
+        }
+        </table>
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    function confirmDelete(userId) {
+        Swal.fire({
+            title: "Are you sure?",
+            text: "You won't be able to revert this!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#d33",
+            cancelButtonColor: "#3085d6",
+            confirmButtonText: "Yes, delete it!"
+        }).then((result) => {
+            if (result.isConfirmed) {
+                document.getElementById(`deleteForm-${userId}`).submit();
+            }
+        });
+    }
+</script>

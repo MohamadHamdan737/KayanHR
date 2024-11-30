@@ -1,0 +1,17 @@
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.EF.deps.json
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.EF.runtimeconfig.json
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.EF.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.EF.pdb
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.BL.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\bin\Debug\net7.0\KayanHRTask.BL.pdb
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.csproj.AssemblyReference.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.AssemblyInfoInputs.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.AssemblyInfo.cs
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.csproj.CoreCompileInputs.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.csproj.CopyComplete
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\refint\KayanHRTask.EF.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.pdb
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\KayanHRTask.EF.genruntimeconfig.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.EF\obj\Debug\net7.0\ref\KayanHRTask.EF.dll

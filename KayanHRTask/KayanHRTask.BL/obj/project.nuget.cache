@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpcjh1dOYgSrYzTFQAuxu4Na6ctf3BbpuIauaGwPMwnNMnuvFAXi0GDrMqK9DN1HK7x0QshBnuW35ihlW0tTEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\.net Project\\KayanHRTask\\KayanHRTask.BL\\KayanHRTask.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

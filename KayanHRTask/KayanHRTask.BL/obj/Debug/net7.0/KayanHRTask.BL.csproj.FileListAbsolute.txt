@@ -1,0 +1,12 @@
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\bin\Debug\net7.0\KayanHRTask.BL.deps.json
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\bin\Debug\net7.0\KayanHRTask.BL.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\bin\Debug\net7.0\KayanHRTask.BL.pdb
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.csproj.AssemblyReference.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.AssemblyInfoInputs.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.AssemblyInfo.cs
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.csproj.CoreCompileInputs.cache
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\refint\KayanHRTask.BL.dll
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\KayanHRTask.BL.pdb
+D:\Programs\.net Project\KayanHRTask\KayanHRTask.BL\obj\Debug\net7.0\ref\KayanHRTask.BL.dll
